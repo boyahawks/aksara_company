@@ -1,0 +1,315 @@
+.contact .shape1 {
+    position: absolute;
+    width: 85px;
+    height: 79px;
+    left: 1241px;
+    top: 930px;
+    border-radius: 50%;
+    background: #1A3183;
+    box-shadow: 0px 24px 25px rgba(26, 49, 131, 0.5);
+
+}
+
+.contact .shape2 {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 500px;
+    top: 1000px;
+    border-radius: 50%;
+    background: #FFB545;
+    box-shadow: 0px 24px 25px rgba(235, 157, 39, 0.5);
+    backdrop-filter: blur(4px);
+
+}
+
+.contact .shape3 {
+    position: absolute;
+    width: 174px;
+    height: 171px;
+    left: 467px;
+    top: 1471px;
+    border-radius: 50%;
+    background: rgba(26, 49, 131, 1);
+    backdrop-filter: blur(4px);
+
+}
+
+.contact .shape4 {
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    left: 1300px;
+    top:  2158px;
+    border-radius: 50%;
+    background: #FFB545;
+    box-shadow: 0px 24px 25px rgba(235, 157, 39, 0.5);
+    backdrop-filter: blur(4px);
+
+}
+.contact .shape5 {
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    left: 180px;
+    top:  2358px;
+    border-radius: 50%;
+    background: rgba(26, 49, 131, 1);
+
+}
+
+.contact .line1 {
+    background-image: url('../template/deskop/template7.png');
+    width: 100%;
+    height: 740px;
+    margin: 0px 0px 100px 0px;
+}
+
+.contact .line1 .sub1 img {
+    height: 580px;
+    margin: 150px 0px 0px 20px;
+}
+
+.contact .line1 .sub2 h1 {
+    margin: 200px 0px 0px 20px;
+}
+
+.contact .line1 .sub2 p {
+    color: white;
+    margin: 20px 0px 0px 25px;
+    text-align: justify;
+}
+
+.contact .line2 {
+    width: 100%;
+    height: 780px;
+    margin: 0px 0px 50px 0px;
+}
+
+.contact .line2 .sub1 {
+    position: absolute;
+    width: 917px;
+    height: 405px;
+    left: -232px;
+    top: 1100px;
+    background: #ECF6FF;
+    border-radius: 320px;
+}
+
+.contact .line2 .sub1 h1 {
+    margin: 126px 0px 0px 270px;
+}
+
+.contact .line2 .sub1 p {
+    margin: 20px 0px 0px 270px;
+}
+
+.contact .line2 .sub2 {
+    position: absolute;
+    width: 652.66px;
+    height: 400px;
+    left: 788.55px;
+    top: 1110px;
+    box-shadow: 12px 12px 13px rgba(0, 0, 0, 0.25);
+    transform: rotate(-0.02deg);
+}
+
+.contact .line2 .sub2 .gmapsStyle {
+    width: 640px; 
+    height: 400px;
+    border-radius: 100px;
+}
+
+
+.contact .line3 {
+    width: 100%;
+    height: 740px;
+    margin: 0px 0px 100px 0px;
+}
+
+.contact .line3 .sub1 img {
+    margin: 0px 0px 0px 25px;
+}
+
+.contact .line3 .sub2 .rectangle {
+    height: auto;
+    margin: 50px 0px 0px 40px;
+    background-color: #ECF6FF;
+    border-bottom-left-radius: 200px;
+    border-top-left-radius: 200px;
+}
+.contact .line3 .sub2 .rectangle .title {
+    padding: 50px 0px 30px 0px;
+}
+.contact .line3 .sub2 .rectangle p {
+    text-align: justify;
+    padding: 0px 50px 30px 80px;
+}
+.contact .line3 .sub2 .rectangle .informasi {
+    padding: 0px 50px 50px 80px;
+}
+.contact .line3 .sub2 .rectangle .icon {
+    font-size: 30px;
+    margin: 0px 0px 0px 20px;
+    color: #046FD2;
+}
+.contact .line3 .sub2 .rectangle .deskripsi {
+    font-size: 20px;
+    color: #046FD2;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* FOR ANDROID 1  */
+@media only screen and (max-width: 576px) {
+    .contact .line1 {
+        height: auto;
+        margin: 0px 0px 50px 0px;
+    }
+    .contact .line1 .sub1 img {
+        height: 250px;
+        margin: 50px 0px 0px 20px;
+    }
+    
+    .contact .line1 .sub2 h1 {
+        margin: 50px 0px 0px 20px;
+    }
+    
+    .contact .line1 .sub2 p {
+        color: white;
+        margin: 20px 0px 0px 25px;
+        padding: 0px 0px 50px 0px;
+        text-align: left;
+    }
+
+    .contact .line2 {
+        width: 100%;
+        height: auto;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 50px 0px;
+    }
+    
+    .contact .line2 .sub1 {
+        position: static;
+        width: 367px;
+        height: 405px;
+        left: -232px;
+        top: 1100px;
+        background: #ECF6FF;
+        border-radius: 10px;
+    }
+    
+    .contact .line2 .sub1 h1 {
+        margin: 126px 0px 0px 20px;
+        padding: 100px 0px 0px 0px;
+    }
+    
+    .contact .line2 .sub1 p {
+        margin: 20px 0px 0px 20px;
+    }
+    
+    .contact .line2 .sub2 {
+        position: static;
+        width: 400px;
+        height: 400px;
+        padding: 0px 0px 30px 20px;
+        margin: 50px 0px 50px 0px;
+        box-shadow: 12px 12px 13px rgba(0, 0, 0, 0.25);
+        transform: rotate(-0.02deg);
+    
+    }
+    
+    .contact .line2 .sub2 .gmapsStyle{
+        width: 100%; 
+        height: 400px;
+        border-radius: 30px 30px 30px 30px;
+    }
+
+    .contact .line3 {
+        width: 100%;
+        height: 740px;
+        margin: 0px 0px 100px 0px;
+    }
+    
+    .contact .line3 .sub1 img {
+        margin: 0px 0px 0px 25px;
+        height: 230px;
+        width: auto;
+    }
+    
+    .contact .line3 .sub2 .rectangle {
+        height: auto;
+        margin: 50px 0px 0px 20px;
+        background-color: #ECF6FF;
+    }
+    .contact .line3 .sub2 .rectangle .title {
+        padding: 50px 0px 30px 0px;
+    }
+    .contact .line3 .sub2 .rectangle p {
+        text-align: justify;
+        padding: 0px 50px 30px 20px;
+    }
+    .contact .line3 .sub2 .rectangle .informasi {
+        padding: 0px 50px 50px 20px;
+    }
+    .contact .line3 .sub2 .rectangle .icon {
+        font-size: 20px;
+        margin: 0px 0px 0px 20px;
+        color: #046FD2;
+    }
+    .contact .line3 .sub2 .rectangle .deskripsi {
+        font-size: 14px;
+        color: #046FD2;
+    }
+
+
+    /* SHAPE  */
+
+    .contact .shape1 {
+        display: none;
+    }
+    
+    .contact .shape2 {
+        display: none;
+    }
+    
+    .contact .shape3 {
+        /* position: absolute;
+        width: 174px;
+        height: 171px;
+        left: 467px;
+        top: 1471px;
+        border-radius: 50%;
+        background: rgba(26, 49, 131, 1);
+        backdrop-filter: blur(4px); */
+        display: none;
+    
+    }
+    
+    .contact .shape4 {
+        /* position: absolute;
+        width: 130px;
+        height: 130px;
+        left: 1300px;
+        top:  2158px;
+        border-radius: 50%;
+        background: #FFB545;
+        box-shadow: 0px 24px 25px rgba(235, 157, 39, 0.5);
+        backdrop-filter: blur(4px); */
+        display: none;
+    
+    }
+    .contact .shape5 {
+       display: none;
+    
+    }
+
+
+}
+
+/* FOR ANDROID 2  */
+@media only screen and (max-width: 368px) {
+
+}

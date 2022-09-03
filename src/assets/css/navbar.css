@@ -1,0 +1,81 @@
+:root {
+    --animate-duration: 800ms;
+    --animate-delay: 0.9s;
+}
+
+.animation1 {
+    animation: animate__fadeInLeft;
+    /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+    /* don't forget to set a duration! */
+}
+
+/* .container-fluid{
+    margin: 0px;
+    padding: 0px;
+} */
+
+.menu-top {
+    bottom: 0;
+    width: 100%;
+    text-align: right;
+    position: fixed;
+}
+
+.menu-top img {
+    margin: 0px 30px 10px 0px;
+    cursor: pointer;
+}
+
+.navbar-nav {
+    margin-left: 50px;
+
+}
+
+.navbar-nav .nav-item {
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    z-index: 1;
+    align-items: center;
+    background-color: white;
+    padding: 10px 0px 10px 0px;
+}
+
+.navbar-nav .nav-item span:hover {
+    color: #004F99;
+}
+
+.navbar .contact {
+    background: #036FD2;
+    border-radius: 40px 40px 40px 40px;
+    height: 50px;
+}
+
+.navbar .contact h5 {
+    color: white;
+    margin: 5px 40px 15px 40px;
+}
+
+.navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    background-color: white;
+}
+
+.lineScroll {
+    text-align: center;
+}
+
+.lineScroll a i {
+    font-size: 30px;
+    color: #FFB545;
+}

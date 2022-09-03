@@ -1,0 +1,427 @@
+.home .line1 {
+    background-image: url('../template/deskop/template1.png');
+    background-repeat: no-repeat;
+    height: 750px;
+}
+
+.home .line1 .sub1 {
+    margin: 130px 0px 0px 30px;
+}
+
+.home .line1 .sub1 h1 {
+    color: white;
+}
+
+.home .line1 .sub2 img {
+    width: auto;
+    height: 550px;
+    margin: 180px 0px 0px 30px;
+}
+
+/* LINE 2  */
+
+.home .line2 {
+    background-image: url('../template/deskop/template2.png');
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+
+.home .line2 .sub1 .info1 {
+    height: 330px;
+    width: 278px;
+    background-image: url('../card/card1.png');
+    margin: 80px 0px 0px 20px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.40));
+    color: black;
+}
+
+.home .line2 .sub1 .info1 img {
+    margin: 50px 0px 0px 0px;
+}
+
+.home .line2 .sub1 .info1 p {
+    margin: 0px 30px 0px 30px;
+}
+
+.home .line2 .sub1 .info2 {
+    height: 350px;
+    width: 278px;
+    background-image: url('../card/card2.png');
+    margin: 0px 0px 0px 20px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.40));
+    color: black;
+}
+
+.home .line2 .sub1 .info2 img {
+    margin: 40px 0px 0px 0px;
+}
+
+.home .line2 .sub1 .info2 p {
+    margin: 0px 30px 0px 30px;
+}
+
+.home .line2 .sub1 .info3 {
+    height: 330px;
+    width: 278px;
+    background-image: url('../card/card3.png');
+    margin: 110px 0px 0px 20px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.40));
+    color: black;
+}
+
+.home .line2 .sub1 .info3 img {
+    margin: 30px 0px 0px 0px;
+}
+
+.home .line2 .sub1 .info3 p {
+    margin: 0px 30px 0px 30px;
+}
+
+.home .line2 .sub1 .info4 {
+    height: 330px;
+    width: 278px;
+    background-image: url('../card/card4.png');
+    margin: 0px 0px 0px 20px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.40));
+    color: black;
+}
+
+.home .line2 .sub1 .info4 img {
+    margin: 30px 0px 0px 0px;
+}
+
+.home .line2 .sub1 .info4 p {
+    margin: 0px 30px 0px 30px;
+}
+
+.home .line2 .sub2 h1 {
+    margin: 300px 30px 0px 60px;
+}
+
+.home .line2 .sub2 p {
+    margin: 20px 0px 0px 60px;
+}
+
+/* LINE 3  */
+
+.home .line3 {
+    background-image: url('../template/deskop/template3.png');
+    background-repeat: no-repeat;
+    height: 920px;
+    margin: 30px 0px 0px 0px;
+}
+
+.home .line3 .judul {
+    padding: 100px 0px 0px 0px;
+}
+
+.home .line3 .body {
+    margin: 80px 0px 0px 0px;
+}
+
+.home .line3 .body .layanan {
+    width: 270px;
+    height: 320px;
+    margin: 10px 0px 10px 60px;
+    background-color: white;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.home .line3 .body .layanan img {
+    margin: 40px 0px 0px 0px;
+}
+
+.home .line3 .body .layanan p {
+    margin: 30px 10px 0px 10px;
+    font-size: 20px;
+}
+
+.home .line3 .button-selengkapnya {
+    height: 40px;
+    margin: 50px 0px 0px 0px;
+}
+
+.home .line3 .button-selengkapnya .sub1 {
+    height: 20px;
+    margin: 8px 0px 0px 0px;
+}
+
+.home .button-selengkapnya {
+    margin: 60px 0px 0px 0px;
+}
+
+.home .button-selengkapnya span {
+    font-size: 20px;
+    padding: 10px 70px 10px 70px;
+    background-color: #F89500;
+    border-radius: 30px 30px 30px 30px;
+    cursor: pointer;
+    color: white;
+}
+
+/* LINE 4  */
+
+.home .line4 {
+    background-image: url('../template/deskop/template4.png');
+    background-repeat: no-repeat;
+    height: 800px;
+    margin: 30px 0px 0px 0px;
+
+}
+
+.home .line4 .sub1 h1 {
+    padding: 180px 30px 0px 30px;
+}
+
+.home .line4 .sub1 p {
+    margin: 30px 30px 0px 30px;
+}
+
+.home .line4 .vector1 {
+    width: 250px;
+    height: auto;
+    margin: 100px 0px 0px 150px;
+}
+
+.home .line4 .vector2 {
+    width: 250px;
+    height: auto;
+    margin: 0px 0px 0px 80px;
+}
+
+.home .line4 .vector3 {
+    width: 250px;
+    height: auto;
+    margin: 190px 0px 0px 70px;
+}
+
+.home .line4 .vector4 {
+    width: 250px;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+}
+
+/* LINE 5  */
+
+.home .line5 {
+    height: 720px;
+    background-color: #ECF6FF;
+    margin: 30px 0px 0px 0px;
+}
+
+.home .line5 .template-5 {
+    background-image: url('../card/card5.png');
+    background-repeat: no-repeat;
+    height: 500px;
+    margin: 100px 0px 0px 0px;
+}
+
+.home .line5 .sub1 {
+    margin: 150px 0px 0px 160px;
+}
+
+.home .line5 .sub2 {
+    margin: 30px 0px 0px 160px;
+
+    font-size: 25px;
+}
+
+.home .line5 .sub3 {
+    margin: 50px 120px 0px 0px;
+}
+
+
+
+
+/* FOR ANDROID 1  */
+@media only screen and (max-width: 576px) {
+
+    .home .line1 .sub1 {
+        margin: 50px 0px 0px 30px;
+    }
+
+    .home .line1 .sub2 img {
+        width: auto;
+        height: 250px;
+        margin: 50px 0px 0px 10px;
+    }
+
+    .home .line2 {
+        height: auto;
+    }
+
+    .home .line2 .sub1 .info1 {
+        margin: 0px 0px 0px 40px;
+    }
+
+    .home .line2 .sub1 .info2 {
+        margin: 0px 0px 0px 40px;
+    }
+
+    .home .line2 .sub1 .info3 {
+        margin: 0px 0px 0px 40px;
+    }
+
+    .home .line2 .sub1 .info4 {
+        margin: 0px 0px 0px 40px;
+    }
+
+    .home .line2 .sub2 h1 {
+        margin: 50px 10px 0px 10px;
+    }
+
+    .home .line2 .sub2 p {
+        margin: 20px 10px 0px 10px;
+    }
+
+    .home .line3 {
+        background-image: none;
+        background: #ECF6FF;
+        height: auto;
+    }
+
+    .home .line3 .body .layanan {
+        margin: 10px 0px 10px 35px;
+
+    }
+
+    .home .line3 .button-selengkapnya {
+        margin: 50px 0px 0px 30px;
+    }
+    
+    .home .line3 .button-selengkapnya .sub1 {
+        margin: 8px 0px 0px 30px;
+    }
+
+
+    .home .line3 .lineScroll {
+        margin: 20px 0px 0px 20px;
+        padding-bottom: 20px;
+    }
+
+    .home .line4 {
+        height: auto;
+    }
+
+    .home .line4 .sub1 h1 {
+        padding: 50px 20px 0px 30px;
+    }
+
+    .home .line4 .sub1 p {
+        margin: 30px 20px 0px 30px;
+    }
+
+    .home .line4 .sub1 .lineScroll {
+        margin: 30px 0px 0px 0px;
+    }
+
+    .home .line4 .vector1 {
+        margin: 0px 0px 0px 50px;
+    }
+
+    .home .line4 .vector2 {
+        margin: 0px 0px 0px 50px;
+    }
+
+    .home .line4 .vector3 {
+        margin: 0px 0px 0px 50px;
+    }
+
+    .home .line4 .vector4 {
+        margin: 0px 0px 0px 50px;
+    }
+
+    .home .line5 {
+        width: 100%;
+        height: auto;
+        background-color: #ECF6FF;
+        margin: 30px 0px 0px 0px;
+    }
+
+    .home .line5 .template-5 {
+        background-image: none;
+        margin: 100px 0px 0px 30px;
+    }
+
+    .home .line5 .sub1 {
+        margin: 50px 10px 0px 10px;
+    }
+
+    .home .line5 .sub2 {
+        margin: 30px 10px 0px 10px;
+        font-size: 25px;
+    }
+
+    .home .line5 .sub3 {
+        margin: 50px 0px 0px 0px;
+    }
+
+}
+
+/* FOR ANDROID 2  */
+@media only screen and (max-width: 368px) {
+
+    .home .line1 .sub2 img {
+        width: auto;
+        height: 240px;
+        margin: 50px 0px 0px 5px;
+    }
+
+    .home .line2 {
+        background-repeat: no-repeat;
+    }
+    .home .line2 .sub1 .info1 {
+        margin: 0px 0px 0px 14px;
+    }
+
+    .home .line2 .sub1 .info2 {
+        margin: 0px 0px 0px 14px;
+    }
+
+    .home .line2 .sub1 .info3 {
+        margin: 0px 0px 0px 19px;
+    }
+
+    .home .line2 .sub1 .info4 {
+        margin: 0px 0px 0px 19px;
+    }
+    .home .line2 .sub2 h1 {
+        margin: 50px 0px 0px 0px;
+    }
+
+    .home .line2 .sub2 p {
+        margin: 20px 0px 0px 0px;
+    }
+
+
+    .home .line3 {
+        background-repeat: no-repeat;
+
+    }
+    .home .line3 .body .layanan {
+        margin: 10px 0px 10px 20px;
+
+    }
+    .home .line3 .lineScroll {
+        margin: 20px 0px 0px 45px;
+    }
+
+    .home .line4 {
+        background-repeat: no-repeat;
+    }
+    .home .line4 .vector1 {
+        margin: 0px 0px 0px 35px;
+    }
+
+    .home .line4 .vector2 {
+        margin: 0px 0px 0px 35px;
+    }
+
+    .home .line4 .vector3 {
+        margin: 0px 0px 0px 35px;
+    }
+
+    .home .line4 .vector4 {
+        margin: 0px 0px 0px 35px;
+    }
+}

@@ -1,0 +1,95 @@
+.about .line1 {
+    background-image: url('../template/deskop/template5.png');
+    width: 100%;
+    height: 800px;
+}
+.about .line1 .sub1 img {
+    height: 580px;
+    width: auto;
+}
+.about .line1 .sub2 h1 {
+    margin: 150px 0px 0px 50px;
+}
+.about .line1 .sub2 p {
+    margin: 20px 0px 0px 60px;
+    text-align: justify;
+    color: white;
+}
+.about .line2 {
+    background-image: url('../template/deskop/template6.png');
+    width: 100%;
+    height: 800px;
+    margin: 0px 0px 70px 0px;
+}
+.about .line2 .sub1 .judul1 h1{
+    margin: 170px 0px 0px 0px;
+    padding: 0px 0px 0px 20px;
+}
+.about .line2 .sub1 .judul1 p {
+    padding: 20px 0px 0px 20px;
+    color: #6A6A6A;
+    font-weight: bold;
+}
+.about .line2 .sub1 .judul2 h1 {
+    margin: 50px 0px 0px 0px;
+    padding: 0px 0px 0px 20px;
+}
+.about .line2 .sub1 .judul2 table tr th {
+    color: #6A6A6A;
+}
+.about .line2 .sub1 .judul2 table {
+    margin: 0px 0px 0px 20px;
+}
+.about .line2 .sub2 img {
+    margin: 160px 20px 0px 0px;
+    height: 550px;
+    width: auto;
+}
+
+/* FOR ANDROID 1  */
+@media only screen and (max-width: 576px) {
+    .about .line1 {
+        height: auto;
+        padding: 0px 0px 80px 0px;
+    }
+    .about .line1 .sub1 img {
+        height: 280px;
+        width: auto;
+    }
+    .about .line1 .sub2 h1 {
+        margin: 10px 0px 0px 30px;
+    }
+    .about .line1 .sub2 p {
+        margin: 10px 0px 0px 30px;
+        text-align: left;
+        color: white;
+    }
+
+    /* LINE 2  */
+
+    .about .line2 {
+        height: auto;
+    }
+    .about .line2 .sub1 .judul2 h1 {
+        margin: 50px 0px 0px 0px;
+        padding: 0px 0px 0px 20px;
+    }
+    .about .line2 .sub1 .judul2 table tr th {
+        color: #6A6A6A;
+    }
+    .about .line2 .sub1 .judul2 table {
+        margin: 0px 0px 0px 20px;
+        width: 100%;
+    }
+    .about .line2 .sub2 img {
+        margin: 80px 20px 0px 10px;
+        height: 260px;
+        width: auto;
+    }
+
+}
+
+/* FOR ANDROID 2  */
+@media only screen and (max-width: 368px) {
+
+}

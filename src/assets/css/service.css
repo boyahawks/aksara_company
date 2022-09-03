@@ -1,0 +1,636 @@
+.service .line1 {
+    background-image: url('../template/deskop/template8.png');
+    width: 100%;
+    height: 780px;
+}
+
+.service .line1 .sub1 img {
+    margin: 70px 0px 0px 20px;
+}
+
+.service .line1 .sub2 {
+    padding: 0px 50px 0px 50px;
+}
+
+.service .line1 .sub2 h1 {
+    margin: 180px 0px 0px 30px
+}
+
+.service .line1 .sub2 p {
+    margin: 30px 0px 0px 0px;
+    padding: 0px 50px 0px 30px;
+    color: white;
+    text-align: justify;
+}
+
+.service .line2 {
+    width: 100%;
+    background-color: white;
+    height: 1100px;
+}
+
+.service .line2 .wrap-card {
+    padding: 0px 0px 0px 100px;
+}
+
+.service .line2 .sub1 {
+    box-shadow: 3px 3px 22px rgba(0, 0, 0, 0.14);
+    border-radius: 60px;
+}
+
+.service .line2 .sub1 h1 {
+    padding: 50px 0px 50px 0px;
+}
+
+.service .line2 .sub1 .deks1 {
+    padding: 10px 150px 50px 150px;
+}
+
+.service .line2 .sub1 .logoService p {
+    margin: 0px 0px 50px 25px;
+    font-size: 20px;
+}
+
+.service .line3 {
+    width: 100%;
+    background-image: url('../template/deskop/template9.png');
+    background-repeat: no-repeat;
+    background-color: #ECF6FF;
+    height: 1100px;
+}
+
+.service .line3 .sub1 {
+    margin: 400px 0px 0px 55px;
+}
+
+.service .line3 .sub1 p {
+    text-align: justify;
+}
+
+.service .line3 h1{
+    margin: 150px 0px 30px 0px;
+}
+
+.service .line3 .sub2 .info1 {
+    height: 350px;
+    width: 278px;
+    background-image: url('../card/card15.png');
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.40));
+    margin: 30px 0px 0px 90px;
+    box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    color: black;
+}
+
+.service .line3 .sub2 .info1 h3 {
+    padding: 15px 10px 0px 10px;
+    font-size: 24px;
+    color: white;
+}
+.service .line3 .sub2 .info1 .wrap-white {
+    background-color: white;
+    border-radius: 0px 20px 20px 0px;
+    width: 220px;
+    height: 240px;
+    margin: 15px 0px 0px 5px;
+}
+
+.service .line3 .sub2 .info1 .wrap-white img {
+    height: 80px;
+    margin: 10px 0px 10px 0px;
+}
+.service .line3 .sub2 .info1 .wrap-white p {
+    font-size: 13px;
+    margin: 0px 10px 0px 10px;
+}
+
+.service .line3 .sub2 .info2 {
+    height: 350px;
+    width: 278px;
+    background-image: url('../card/card14.png');
+    margin: 30px 0px 0px 90px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.40));
+    box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    color: black;
+}
+
+.service .line3 .sub2 .info2 h3 {
+    padding: 30px 0px 0px 0px;
+    color: white;
+}
+.service .line3 .sub2 .info2 .wrap-white {
+    background-color: white;
+    border-radius: 0px 20px 20px 0px;
+    width: 220px;
+    height: 240px;
+    margin: 15px 0px 0px 5px;
+}
+
+.service .line3 .sub2 .info2 .wrap-white img {
+    height: 80px;
+    margin: 10px 0px 10px 0px;
+}
+.service .line3 .sub2 .info2 .wrap-white p {
+    font-size: 13px;
+    margin: 0px 10px 0px 10px;
+}
+
+.service .line3 .sub2 .info3 {
+    height: 350px;
+    width: 278px;
+    background-image: url('../card/card12.png');
+    margin: 30px 0px 0px 90px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.40));
+    box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    color: black;
+}
+
+.service .line3 .sub2 .info3 h3 {
+    padding: 30px 0px 0px 0px;
+    color: white;
+}
+.service .line3 .sub2 .info3 .wrap-white {
+    background-color: white;
+    border-radius: 0px 20px 20px 0px;
+    width: 220px;
+    height: 240px;
+    margin: 15px 0px 0px 5px;
+}
+
+.service .line3 .sub2 .info3 .wrap-white img {
+    height: 80px;
+    margin: 10px 0px 10px 0px;
+}
+.service .line3 .sub2 .info3 .wrap-white p {
+    font-size: 13px;
+    margin: 0px 10px 0px 10px;
+}
+
+
+.service .line3 .sub2 .info4 {
+    height: 350px;
+    width: 278px;
+    background-image: url('../card/card13.png');
+    margin: 30px 0px 0px 90px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.40));
+    box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    color: black;
+}
+
+.service .line3 .sub2 .info4 h3 {
+    padding: 30px 0px 0px 0px;
+    color: white;
+}
+.service .line3 .sub2 .info4 .wrap-white {
+    background-color: white;
+    border-radius: 0px 20px 20px 0px;
+    width: 220px;
+    height: 240px;
+    margin: 15px 0px 0px 5px;
+}
+
+.service .line3 .sub2 .info4 .wrap-white img {
+    height: 80px;
+    margin: 10px 0px 10px 0px;
+}
+.service .line3 .sub2 .info4 .wrap-white p {
+    font-size: 13px;
+    margin: 0px 10px 0px 10px;
+}
+
+.service .line4 {
+    width: 100%;
+    background-color: white;
+    height: 900px;
+}
+
+.service .line4 .sub1 {
+    margin: 130px 0px 0px 80px;
+    background-color: #FFFFFF;
+    height: 560px;
+    box-shadow: 8px 9px 22px rgba(0, 0, 0, 0.14);
+    border-radius: 50px;
+
+}
+.service .line4 .sub1 .lineScroll {
+    padding: 20px 0px 20px 0px;
+}
+
+.service .line4 .sub1 h1 {
+    margin: 50px 0px 0px 80px;
+}
+
+.service .line4 .sub1 .lineScroll {
+    margin: 50px 0px 0px 0px;
+}
+
+.service .line4 .sub1 .bag1 {
+    margin: 100px 0px 0px 0px;
+}
+.service .line4 .sub1 .bag1 .cara1 {
+    background-image: url('../vector/vector6.png');
+    background-color: green;
+   
+}
+.service .line4 .sub1 .bag1 .cara2 {
+    background-image: url('../vector/vector7.png');
+    height: 50;
+}
+.service .line4 .sub1 .bag1 .cara3 {
+    background-image: url('../vector/vector8.png');
+    height: 50;
+}
+.service .line4 .sub1 .bag1 .cara4 {
+    background-image: url('../vector/vector9.png');
+    height: 50;
+}
+.service .line4 .sub1 .bag1 .cara5 {
+    background-image: url('../vector/vector10.png');
+    height: 50;
+}
+.service .line4 .sub1 .bag1 .cap2 {
+    margin: 0px 0px 0px 18px;
+}
+.service .line4 .sub1 .bag1 .cap4 {
+    margin: 0px 0px 0px 8px;
+}
+.service .line4 .sub1 .bag1 p {
+    margin: 20px 0px 0px 0px;
+}
+
+
+.service .line4 .shape1 {
+    position: absolute;
+    width: 156px;
+    height: 138px;
+    left: 232px;
+    top: 3054px;
+    border-radius: 50%;
+    background: #FFB545;
+    box-shadow: 0px 24px 25px rgba(235, 157, 39, 0.5);
+    backdrop-filter: blur(4px);
+}
+
+.service .line4 .shape2 {
+    position: absolute;
+    width: 136px;
+    height: 118px;
+    left: 1302px;
+    top: 3754px;
+    border-radius: 50%;
+    background: #FFB545;
+    box-shadow: 0px 24px 25px rgba(235, 157, 39, 0.5);
+    backdrop-filter: blur(4px);
+}
+
+.service .line5 {
+    width: 100%;
+    background-color: white;
+    height: 700px;
+}
+
+.service .line5 .sub1 .templateMemulai {
+    margin: 0px 0px 0px 100px; 
+    border: 0px
+}
+
+.service .line5 .sub1 .bag1 h1 {
+    padding: 150px 0px 0px 80px;
+}
+
+.service .line5 .sub1 .bag1 p {
+    padding: 10px 0px 0px 80px;
+}
+
+.service .line5 .sub1 .bag2 .style-button {
+    padding: 200px 0px 0px 80px;
+}
+
+.service .line5 .sub1 .bag2 span {
+    font-size: 25px;
+    background-color: #FFB545;
+    padding: 10px 30px 10px 30px;
+    border-radius: 30px 30px 30px 30px;
+    cursor: pointer;
+    color: white;
+}
+
+.service .line5 .sub1 .bag2 span i {
+    padding: 0px 15px 0px 0px;
+}
+
+.service .line5 .sub1 .shape1 {
+    position: absolute;
+    width: 186px;
+    height: 158px;
+    left: 50px;
+    top: 3784px;
+    border-radius: 50%;
+    background: #1A3183;
+    box-shadow: 0px 24px 25px rgba(26, 49, 131, 0.5);
+    backdrop-filter: blur(4px);
+}
+
+.service .line5 .sub1 .shape2 {
+    position: absolute;
+    width: 156px;
+    height: 138px;
+    left: 1100px;
+    top: 4484px;
+    border-radius: 50%;
+    background: #1A3183;
+    box-shadow: 0px 24px 25px rgba(26, 49, 131, 0.5);
+    backdrop-filter: blur(4px);
+}
+
+.service .line5 .sub1 .shape3 {
+    position: absolute;
+    width: 126px;
+    height: 108px;
+    left: 200px;
+    top: 4534px;
+    border-radius: 50%;
+    background: rgba(255, 181, 69, 1);
+    box-shadow: 0px 24px 25px rgba(235, 157, 39, 0.5);
+    backdrop-filter: blur(4px);
+}
+
+/* FOR ANDROID 1  */
+@media only screen and (max-width: 576px) {
+
+    /* SHAPE  */
+
+    .service .line4 .shape1 {
+        position: absolute;
+        display: none;
+        width: 156px;
+        height: 138px;
+        left: 232px;
+        top: 0px;
+        border-radius: 50%;
+        background: #FFB545;
+        box-shadow: 0px 24px 25px rgba(235, 157, 39, 0.5);
+        backdrop-filter: blur(4px);
+    }
+
+    .service .line4 .shape2 {
+        position: absolute;
+        display: none;
+        width: 136px;
+        height: 118px;
+        left: 1302px;
+        top: 0px;
+        border-radius: 50%;
+        background: #FFB545;
+        box-shadow: 0px 24px 25px rgba(235, 157, 39, 0.5);
+        backdrop-filter: blur(4px);
+    }
+
+    .service .line5 .sub1 .shape1 {
+        position: absolute;
+        display: none;
+        width: 186px;
+        height: 158px;
+        left: 50px;
+        top: 0px;
+        border-radius: 50%;
+        background: #1A3183;
+        box-shadow: 0px 24px 25px rgba(26, 49, 131, 0.5);
+        backdrop-filter: blur(4px);
+    }
+
+    .service .line5 .sub1 .shape2 {
+        position: absolute;
+        display: none;
+        width: 156px;
+        height: 138px;
+        left: 1100px;
+        top: 0px;
+        border-radius: 50%;
+        background: #1A3183;
+        box-shadow: 0px 24px 25px rgba(26, 49, 131, 0.5);
+        backdrop-filter: blur(4px);
+    }
+
+    .service .line5 .sub1 .shape3 {
+        position: absolute;
+        display: none;
+        width: 126px;
+        height: 108px;
+        left: 200px;
+        top: 0px;
+        border-radius: 50%;
+        background: rgba(255, 181, 69, 1);
+        box-shadow: 0px 24px 25px rgba(235, 157, 39, 0.5);
+        backdrop-filter: blur(4px);
+    }
+
+    /* LINE 1  */
+
+    .service .line1 {
+        height: auto;
+        padding: 0px 0px 250px 0px;
+        background-repeat: no-repeat;
+    }
+
+    .service .line1 .sub1 img {
+        margin: 30px 0px 0px 30px;
+        height: 250px;
+    }
+
+    .service .line1 .sub2 {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .service .line1 .sub2 h1 {
+        margin: 20px 0px 0px 30px
+    }
+
+    .service .line1 .sub2 p {
+        margin: 10px 0px 0px 0px;
+        padding: 0px 30px 0px 30px;
+        font-size: 14px;
+    }
+
+
+    /* LINE 2  */
+
+    .service .line2 {
+        height: auto;
+        padding: 0px 0px 100px 0px;
+    }
+
+    .service .line2 .wrap-card {
+        padding: 0px 0px 0px 35px;
+    }
+
+    .service .line2 .sub1 .deks1 {
+        padding: 10px 30px 50px 30px;
+    }
+
+    .service .line2 .sub1 .logoService img {
+        padding: 0px 30px 0px 30px;
+        margin: 0px 0px 0px 10px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .service .line2 .sub1 .logoService p {
+        margin: 0px 0px 50px 25px;
+        font-size: 20px;
+    }
+
+    /* LINE 3  */
+
+    .service .line3  {
+        height: auto;
+        padding: 0px 0px 100px 0px;
+    }
+
+    .service .line3 .sub1 {
+        margin: 50px 30px 0px 30px;
+    }
+    
+    .service .line3 .sub2 .info1 {
+        margin: 50px 0px 0px 55px;        
+    }
+    .service .line3 .sub2 .info2 {
+        margin: 50px 0px 0px 55px;        
+    }
+    .service .line3 .sub2 .info3 {
+        margin: 50px 0px 0px 55px;        
+    }
+    .service .line3 .sub2 .info4 {
+        margin: 50px 0px 0px 55px;        
+    }
+
+    /* LINE 4  */
+
+    .service .line4 {
+        height: auto;
+    }
+    
+    .service .line4 .sub1 {
+        margin: 60px 0px 0px 30px;
+        height: auto;    
+    }
+    
+    .service .line4 .sub1 h1 {
+        margin: 50px 0px 0px 20px;
+    }
+    
+    .service .line4 .sub1 .lineScroll {
+        margin: 50px 0px 0px 0px;
+    }
+    
+    .service .line4 .sub1 .bag1 {
+        margin: 100px 0px 0px 0px;
+    }
+    
+    .service .line4 .sub1 .bag2 p {
+        margin: 30px 0px 0px 80px;
+    }
+    
+    .service .line4 .sub1 .bag2 p .cap1 {
+        padding: 0px 0px 0px 25px;
+    }
+    
+    .service .line4 .sub1 .bag2 p .cap2 {
+        padding: 0px 0px 0px 45px;
+    }
+    
+    .service .line4 .sub1 .bag2 p .cap3 {
+        padding: 0px 0px 0px 25px;
+    }
+    
+    .service .line4 .sub1 .bag2 p .cap4 {
+        padding: 0px 0px 0px 33px;
+    }
+    
+    .service .line4 .sub1 .bag2 p .cap5 {
+        padding: 0px 0px 0px 27px;
+    }
+    .service .line4 .sub1 .bag1 {
+        margin: 100px 0px 0px 130px;
+    }
+
+    /* LINE 5  */
+
+
+    .service .line5 .sub1 .templateMemulai {
+        margin: 30px 0px 0px 30px; 
+    }
+
+    .service .line5 .sub1 .bag1 h1 {
+        padding: 100px 10px 0px 0px;
+    }
+    
+    .service .line5 .sub1 .bag1 p {
+        padding: 10px 0px 0px 0px;
+    }
+    
+    .service .line5 .sub1 .bag2 .style-button {
+        padding: 50px 0px 0px 0px;
+    }
+    
+
+}
+
+/* FOR ANDROID 2  */
+@media only screen and (max-width: 368px) {
+    .service .line1 .sub1 img {
+        margin: 30px 0px 0px 25px;
+        height: 250px;
+    }
+
+    .service .line1 .sub2 p {
+        padding: 0px 5px 0px 30px;
+    }
+    .service .line2 .sub1 .logoService img {
+        padding: 0px 30px 0px 30px;
+        margin: 0px 0px 0px 10px;
+        width: 100%;
+        text-align: center;
+    }
+    .service .line4 .sub1 .bag1 {
+        margin: 100px 0px 0px 120px;
+    }
+    .service .line3 .sub1 {
+        margin: 50px 30px 0px 30px;
+    }
+    
+    .service .line3 .sub2 .info1 {
+        margin: 50px 0px 0px 38px;        
+    }
+    .service .line3 .sub2 .info2 {
+        margin: 50px 0px 0px 38px;        
+    }
+    .service .line3 .sub2 .info3 {
+        margin: 50px 0px 0px 38px;        
+    }
+    .service .line3 .sub2 .info4 {
+        margin: 50px 0px 0px 38px;        
+    }
+    .service .line5 .sub1 {
+        margin: 70px 0px 0px 0px; 
+    }
+    .service .line5 .sub1 .templateMemulai {
+        margin: 30px 0px 0px 10px; 
+    }
+
+    .service .line5 .sub1 .bag2 .style-button {
+        padding: 20px 0px 0px 0px;
+    }
+    .service .line5 .sub1 .bag2 span {
+        padding: 10px 10px 10px 10px;
+    }
+    .service .line5 .sub1 .bag2 span i {
+        padding: 0px 5px 0px 0px;
+    }
+}
+
+
+
